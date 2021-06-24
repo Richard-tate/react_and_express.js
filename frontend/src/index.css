@@ -1,0 +1,9 @@
+main {
+	min-height: 80vh;
+}
+
+.btn-outline-primary{
+	border-width: 1px !important;
+	border-color: rgba(122, 122, 122, 0.3) !important;
+}
+
